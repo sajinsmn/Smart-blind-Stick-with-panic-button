@@ -32,7 +32,7 @@ SoftwareSerial gsmSerial(gsmRx, gsmTx);
 
 
 // Define phone number to send the SMS
-String phoneNumber = "+919497632369"; // Change to your desired phone number
+String phoneNumber = "+910000000000"; // Change to your desired phone number +91 for India
 
 
 void setup() {
